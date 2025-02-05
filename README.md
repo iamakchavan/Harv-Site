@@ -23,7 +23,7 @@ A clean, responsive, and customizable landing page template built with modern we
 
 1. Clone this repository:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/iamakchavan/harv-site
    ```
 
 2. Open the project in your favorite code editor
@@ -62,10 +62,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 If you have any questions or need support, please open an issue in the repository.
 
-## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped make this template better
-- Special thanks to the open-source community
 
 ---
 
